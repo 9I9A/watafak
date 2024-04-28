@@ -1,0 +1,20 @@
+body {
+  color: #06010e;
+  padding: 10px;
+  background-color: #a399d4 
+}
+
+.title{
+  padding: 20px;
+  background-color: #370458
+}
+
+.quiz_form {
+  display: inline-block;
+  padding: 0px 15 px;
+  line-height: 34px;
+  border: 1px solid #999;
+  border-radius: 6px;
+}
+
+
